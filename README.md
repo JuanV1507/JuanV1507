@@ -1,32 +1,45 @@
 # 👋 Hola, soy Ing. Juan
 
-Soy un **desarrollador web junior** apasionado por crear aplicaciones funcionales y limpias. Me gusta trabajar con tecnologías modernas y mejorar la experiencia del usuario en cada proyecto.
+Soy un **desarrollador web junior** apasionado por crear aplicaciones funcionales y limpias. Me encanta aprender nuevas tecnologías, resolver problemas y construir proyectos que impacten a los usuarios.  
+
+---
+
+## 🎯 Sobre mí
+- 🌱 Actualmente aprendiendo **Spring Boot** y **aplicaciones full-stack**.
+- 💻 Experiencia en **Java, Spring Boot, Python,JavaScript, JSP, HTML, CSS y MySQL**.
+- 🚀 Apasionado por crear aplicaciones web funcionales y escalables.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
 ---
 
 ## 💻 Proyectos destacados
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| **Punto de venta web** | Sistema web para lavandería con ventas, inventario y reportes | Java, Spring Boot, JSP, MySQL |
-| **Aplicación de pizzería** | Gestión de pedidos, productos y usuarios | Java, Spring Boot, React, MySQL |
-| **Web de cobranza extrajudicial** | Página profesional con animaciones y versión multilenguaje | HTML, CSS, JS |
+| Proyecto | Descripción | Tecnologías | Demo |
+|----------|-------------|-------------|------|
+| **Punto de venta web** | Sistema para lavandería con gestión de clientes, ventas e inventario | Java, Spring Boot, JSP, MySQL | [Ver proyecto](#) |
+| **Aplicación de pizzería** | Gestión de pedidos, productos y usuarios | Java, Spring Boot, React, MySQL | [Ver proyecto](#) |
+| **Web de cobranza extrajudicial** | Página profesional en español e inglés con animaciones y componentes interactivos | HTML, CSS, JS | [Ver proyecto](#) |
 
 ---
 
-## 🌱 Actualmente aprendiendo
-- Seguridad y autenticación en **Spring Boot**
-- Desarrollo de **aplicaciones full-stack** con React + Spring Boot
+## 📊 Habilidades
+### Backend
+- Java (⭐⭐⭐⭐)
+- Spring Boot (⭐⭐⭐⭐)
+- MySQL (⭐⭐⭐⭐)
+
+### Frontend
+- HTML5 & CSS3 (⭐⭐⭐⭐⭐)
+- JavaScript (⭐⭐⭐⭐)
 
 ---
 
@@ -36,10 +49,13 @@ Soy un **desarrollador web junior** apasionado por crear aplicaciones funcionale
 
 ---
 
-## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
-- [Correo electrónico](mailto:tuemail@dominio.com)
+## 🌐 Contacto
+- [LinkedIn]([https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/juan-manuel-chan-vazquez-b2b220292/))
+- [Correo electrónico](ingjuanchan03@gmail.com)
 
 ---
+
+## ✨ GIF motivacional
+![Coding GIF](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif)
 
 > "La mejor forma de predecir el futuro es creándolo." – Peter Drucker
