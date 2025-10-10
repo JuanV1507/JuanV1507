@@ -55,7 +55,7 @@ Soy un **desarrollador web junior** apasionado por crear aplicaciones funcionale
 
 ---
 
-## ✨ GIF motivacional
+## 
 ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQzenRkNXI4YWh6ZGlvYTN6cTY3M3BmZzF1c2xoNDAzNDNscTNlbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
 
 > "La mejor forma de predecir el futuro es creándolo." – Peter Drucker
