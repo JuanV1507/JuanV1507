@@ -50,7 +50,7 @@ Soy un **desarrollador web junior** apasionado por crear aplicaciones funcionale
 ---
 
 ## 🌐 Contacto
-- [LinkedIn]([https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/juan-manuel-chan-vazquez-b2b220292/))
+- [LinkedIn]([https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/juan-manuel-chan-vazquez-b2b220292/)
 - [Correo electrónico](ingjuanchan03@gmail.com)
 
 ---
