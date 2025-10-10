@@ -26,7 +26,7 @@ Soy un **desarrollador web junior** apasionado por crear aplicaciones funcionale
 | Proyecto | Descripción | Tecnologías | Demo |
 |----------|-------------|-------------|------|
 | **Punto de venta web** | Sistema para lavandería con gestión de clientes, ventas e inventario | Java, HTML, CSS , JSP, MySQL | [Ver proyecto](https://github.com/JuanV1507/WebLaCochera) |
-| **Aplicación de pizzería** | Gestión de pedidos, productos y usuarios | Java, Spring Boot, React, MySQL | [Ver proyecto](#) |
+| **Aplicación de pizzería** | Gestión de pedidos, productos y usuarios | Java, Spring Boot, MySQL | [Ver proyecto](#) |
 | **Web de cobranza extrajudicial** | Página profesional en español e inglés con animaciones y componentes interactivos | HTML, CSS, JS | [Ver proyecto](https://ircdebtrecovery.com/) |
 
 ---
