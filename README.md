@@ -6,7 +6,7 @@ Soy un **desarrollador web junior** apasionado por crear aplicaciones funcionale
 
 ## 🎯 Sobre mí
 - 🌱 Actualmente aprendiendo **Spring Boot** y **aplicaciones full-stack**.
-- 💻 Experiencia en **Java, Spring Boot, Python,JavaScript, JSP, HTML, CSS y MySQL**.
+- 💻 Experiencia en **Java, Spring Boot, Python,JavaScript, JSP,THYMELEAF, HTML, CSS y MySQL**.
 - 🚀 Apasionado por crear aplicaciones web funcionales y escalables.
 
 ---
@@ -33,13 +33,13 @@ Soy un **desarrollador web junior** apasionado por crear aplicaciones funcionale
 
 ## 📊 Habilidades
 ### Backend
-- Java (⭐⭐⭐⭐)
-- Spring Boot (⭐⭐⭐⭐)
-- MySQL (⭐⭐⭐⭐)
+- Java 
+- Spring Boot 
+- MySQL
 
 ### Frontend
-- HTML5 & CSS3 (⭐⭐⭐⭐⭐)
-- JavaScript (⭐⭐⭐⭐)
+- HTML5 & CSS3
+- JavaScript
 
 ---
 
@@ -50,7 +50,7 @@ Soy un **desarrollador web junior** apasionado por crear aplicaciones funcionale
 ---
 
 ## 🌐 Contacto
-- [LinkedIn]([https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/juan-manuel-chan-vazquez-b2b220292/)
+- [LinkedIn](https://www.linkedin.com/in/juan-manuel-chan-vazquez-b2b220292/)
 - [Correo electrónico](ingjuanchan03@gmail.com)
 
 ---
