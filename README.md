@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan
 
-Soy un **desarrollador web junior** apasionado por crear aplicaciones funcionales y limpias. Me encanta aprender nuevas tecnologías, resolver problemas y construir proyectos que impacten a los usuarios.  
+Soy un **desarrollador web ** apasionado por crear aplicaciones funcionales y limpias. Me encanta aprender nuevas tecnologías, resolver problemas y construir proyectos que impacten a los usuarios.  
 
 ---
 
