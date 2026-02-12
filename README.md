@@ -26,7 +26,7 @@ Soy un **desarrollador web** apasionado por crear aplicaciones funcionales y lim
 | Proyecto | Descripción | Tecnologías | Demo |
 |----------|-------------|-------------|------|
 | **Punto de venta web** | Sistema para lavandería con gestión de clientes, ventas e inventario | Java, HTML, CSS , JSP, MySQL | [Ver proyecto](https://github.com/JuanV1507/WebLaCochera) |
-| **Aplicación de pizzería** | Gestión de pedidos, productos y usuarios | Java, Spring Boot, MySQL | [Ver proyecto](#) |
+| **Analizador de comentarios** | Analizador para catalogar rese;as de productos en postivas, negativas y nuestras | Python , Machine learning, Deep Learning, Html y Css  | [Ver proyecto](https://github.com/JuanV1507/Analizador-de-comentarios) |
 | **Web de cobranza extrajudicial** | Página profesional en español e inglés con animaciones y componentes interactivos | HTML, CSS, JS | [Ver proyecto](https://ircdebtrecovery.com/) |
 
 ---
