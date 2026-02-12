@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan
 
-Soy un **desarrollador web ** apasionado por crear aplicaciones funcionales y limpias. Me encanta aprender nuevas tecnologías, resolver problemas y construir proyectos que impacten a los usuarios.  
+Soy un **desarrollador web** apasionado por crear aplicaciones funcionales y limpias. Me encanta aprender nuevas tecnologías, resolver problemas y construir proyectos que impacten a los usuarios.  
 
 ---
 
@@ -44,8 +44,10 @@ Soy un **desarrollador web ** apasionado por crear aplicaciones funcionales y li
 ---
 
 ## 📈 Estadísticas de GitHub
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanV1507&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanV1507&layout=compact&theme=radical)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanV1507&show_icons=true&theme=radical&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanV1507&layout=compact&theme=radical&cache_seconds=86400)
+
 
 ---
 
