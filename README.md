@@ -12,7 +12,7 @@ Soy un **desarrollador web** apasionado por crear aplicaciones funcionales y lim
 ---
 
 ## 🛠️ Tecnologías y herramientas
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,10 +44,10 @@ Soy un **desarrollador web** apasionado por crear aplicaciones funcionales y lim
 ---
 
 ## 📈 Estadísticas de GitHub
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanV1507&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanV1507&layout=compact&theme=radical&cache_seconds=86400)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanV1507&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanV1507&layout=compact&theme=radical)
 
 ---
 
