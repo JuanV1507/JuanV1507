@@ -28,6 +28,7 @@ Soy un **desarrollador web** apasionado por crear aplicaciones funcionales y lim
 | **Punto de venta web** | Sistema para lavandería con gestión de clientes, ventas e inventario | Java, HTML, CSS , JSP, MySQL | [Ver proyecto](https://github.com/JuanV1507/WebLaCochera) |
 | **Analizador de comentarios** | Analizador para catalogar rese;as de productos en postivas, negativas y nuestras | Python , Machine learning, Deep Learning, Html y Css  | [Ver proyecto](https://github.com/JuanV1507/Analizador-de-comentarios) |
 | **Web de cobranza extrajudicial** | Página profesional en español e inglés con animaciones y componentes interactivos | HTML, CSS, JS | [Ver proyecto](https://ircdebtrecovery.com/) |
+| **Pizza.NET POS System** | Plataforma POS desarrollada con Spring Boot para automatizar ventas, personal, Productos, devoluciones e impresión térmica en una pizzería. Incluye generación automática de reportes y tareas programadas. | Java, Spring Boot, Hibernate, MySQL, JavaMailSender, ESC/POS | [Ver proyecto] (https://github.com/JuanV1507/PIZZA.NET) |
 
 ---
 
